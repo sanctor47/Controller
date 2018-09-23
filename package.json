@@ -1,0 +1,19 @@
+{
+  "name": "controller",
+  "version": "0.0.1",
+  "description": "Controller Manafesto",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanctor47/Controller.git"
+  },
+  "author": "Aser Nabil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanctor47/Controller/issues"
+  },
+  "homepage": "https://github.com/sanctor47/Controller#readme"
+}
